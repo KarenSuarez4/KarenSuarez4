@@ -17,9 +17,7 @@ jobs:
           github_user_name: KarenSuarez4
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#9b59b6' 
-          color_dots: '#39d353,#26a641,#006d32,#0e4429' 
-          background: transparent  
+          background_color: '00000000'
 
       - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v2.1.3
