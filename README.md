@@ -37,9 +37,10 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=KarenSuarez4&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenSuarez4&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KarenSuarez4&theme=radical" alt="GitHub Streak" style="max-width: 45%; display: inline-block;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarenSuarez4&layout=compact&theme=radical" alt="Top Languages" style="max-width: 45%; display: inline-block;"/>
 </div>
+
 
 ---
 
