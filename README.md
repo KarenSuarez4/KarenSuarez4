@@ -34,11 +34,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidMG&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YesidMG&theme=dark)](https://git.io/streak-stats)
 
-## 🐍 GitHub Activity Snake
+### 🐍 Snake eating my contributions
 
-<p align="center">
-  <img src="https://github.com/KarenSuarez4/KarenSuarez4/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KarenSuarez4/KarenSuarez4/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/KarenSuarez4/KarenSuarez4/output/github-contribution-grid-snake.svg" />
+</picture>
+
 
 
 
