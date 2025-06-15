@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Karen!
 - I´m a System Engineer in process. 
 
@@ -10,7 +11,7 @@
 
 ## 🛠️ Languages and Tools
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
@@ -27,5 +28,12 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/CI/CD-0A0A0A?style=flat&logo=gitlab&logoColor=FC6D26" alt="CI/CD"/>
 </p>
+
+
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidMG&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YesidMG&theme=dark)](https://git.io/streak-stats)
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
 
 
