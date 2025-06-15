@@ -34,6 +34,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesidMG&layout=compact)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YesidMG&theme=dark)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/KarenSuarez4/KarenSuarez4/blob/output/github-contribution-grid-snake.gif)
 
 
