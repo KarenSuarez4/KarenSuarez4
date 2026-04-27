@@ -5,7 +5,7 @@
 
 ### About Me
 
-- I'm currently an **8th-semester Systems Engineering** student.
+- I'm currently an **9th-semester Systems Engineering** student.
 - I enjoy building solutions that simplify processes and enhance user experiences.
 - I have a strong interest in backend development, security (JWT), and modern web technologies.
 - I'm passionate about teamwork, clean code, and continuous learning.
